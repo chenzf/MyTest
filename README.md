@@ -1,3 +1,4 @@
 MyTset
-This is add by client!
-This is delete by server!
+This is added by client!
+This is deleted by server!
+This is added by client!
